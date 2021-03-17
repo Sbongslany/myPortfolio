@@ -26,6 +26,7 @@ const data = [
     text: "contact",
     url: "/contact/",
   },
+
 ]
 
 const tempLinks = data.map(link => {
